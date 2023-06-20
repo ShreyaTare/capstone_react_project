@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/capstone_react_project/static/css/main.95b19e9c.css",
+    "main.js": "/capstone_react_project/static/js/main.c58b70a7.js",
+    "static/js/787.90ef330e.chunk.js": "/capstone_react_project/static/js/787.90ef330e.chunk.js",
+    "static/media/pink-flower.png": "/capstone_react_project/static/media/pink-flower.628f1500419a285368f3.png",
+    "static/media/logo.svg": "/capstone_react_project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/capstone_react_project/index.html",
+    "main.95b19e9c.css.map": "/capstone_react_project/static/css/main.95b19e9c.css.map",
+    "main.c58b70a7.js.map": "/capstone_react_project/static/js/main.c58b70a7.js.map",
+    "787.90ef330e.chunk.js.map": "/capstone_react_project/static/js/787.90ef330e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b19e9c.css",
+    "static/js/main.c58b70a7.js"
+  ]
+}
